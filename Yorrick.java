@@ -4,9 +4,8 @@ public class Yorrick
 {
   public static void main (String[] args)
   {
-    final String choices = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()_+-=[]{};':,./<>?\"\\|`~";
+    final String choices = "abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()_+-=[]{};':,./<>?\"\\|`~";
     final int chosen = choices.length();
-    
     final String quote = "Alas, poor Yorick! I knew him, Horatio";
     
     int test = 0;
