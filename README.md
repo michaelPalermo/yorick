@@ -1,5 +1,5 @@
 # The yorick Project
-randomly mashes the keyboard until Shakespeare happens, based upon this theorem: https://en.wikipedia.org/wiki/Infinite_monkey_theorem
+randomly mashes the keyboard until Shakespeare happens, based upon [this theorem] (https://en.wikipedia.org/wiki/Infinite_monkey_theorem)
 However this version gives the user an army of monkeys and typewriters at virtually no expense and with a lot less cleanup.
 
 Yorick.java provides an example of this theroem in which it will randomly output gibberish until it happens to say:
