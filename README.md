@@ -4,9 +4,7 @@ randomly mashes the keyboard until Shakespeare happens, based upon [this theorem
 - Yorick.java provides an example of this theroem in which it will randomly output gibberish until it happens to say:
   "Alas, poor Yorick! I knew him, Horatio"
   Please note this is really improbable so the program tends to not end unless you force it.
-
 - VirtualMonkeys.java allows for users to provide input, giving them full control of the army of virtual monkeys.
+- HamletWriter.java reads the Hamlet.txt file and tries to replicate it by mashing on the keyboard. needless to say the odds of it working or *VERY* slim to none, keep both files in same folder.
 
-
-
-version 1.1 now comes with better spelling of Yorick
+Hamlet.txt is a copy of the html version of hamlet available at http://shakespeare.mit.edu/
